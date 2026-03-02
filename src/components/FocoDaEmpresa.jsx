@@ -12,18 +12,21 @@ const FocoDaEmpresa = () => {
         <h4>We consistently focus on < br/>
              both beauty and usability</h4>
 
-<div className='secao1'>
+                <div className='secao1'>
 
-    <img src={img1} alt="" />
-
-</div>
-
-<div className='secao2'>
-
-<img src={img2} alt="" />
+                            <div className="conteudo1">
+                            <img src={img1} alt="" />
+                            </div>
 
 
-</div>
+                </div>
+
+                <div className='secao2'>
+
+                <img src={img2} alt="" />
+
+
+                </div>
 
 
     </div>
