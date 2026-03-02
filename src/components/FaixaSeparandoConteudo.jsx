@@ -1,8 +1,7 @@
 import React from 'react'
 
-type Props = {}
 
-const FaixaSeparandoConteudo = (props: Props) => {
+const FaixaSeparandoConteudo = () => {
   return (
     <div>FaixaSeparandoConteudo</div>
   )
