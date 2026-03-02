@@ -29,7 +29,6 @@
 /* Estilização básica para o conteúdo */
 .texto {
     flex: 1;
-    /* Faz o texto ocupar metade do espaço */
 }
 
 .imagem {
