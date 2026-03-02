@@ -1,38 +1,35 @@
 import React from 'react'
 import "../Css/Header.css"
-
 import logo from "../img/logoHeader.png"
 
 const Header = () => {
   return (
     <div className='header'>
-           <img src={logo} alt="logo" />
-           <ul className="headerMenu">
+      {/* BARRA DE NAVEGAÇÃO (LOGO + MENU + BOTÃO) */}
+      <div className="headerNav">
+        <img src={logo} alt="logo" className="logoHeader" />
 
-            <li className="headerMenuLista"><a href="#" className='linkListaHeader'>About</a></li>
-            <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Service</a></li>
-            <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Blog</a></li>
-            <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Careers</a></li>
-           </ul>
+        <ul className="headerMenu">
+          <li className="headerMenuLista"><a href="#" className='linkListaHeader'>About</a></li>
+          <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Service</a></li>
+          <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Blog</a></li>
+          <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Careers</a></li>
+        </ul>
 
-    <div className="movimentacaobtn">
-    <button className='btnContactUs'>Contact US</button>
-    </div>
+        <div className="movimentacaobtn">
+          <button className='btnContactUs'>Contact US</button>
+        </div>
+      </div>
 
-
-          <div className="conteudo">
-
-              <div className="conteudoEscrito">
-
-              </div>
-
-              <div className="conteudoimagem">
-
-              </div>
-
-          </div>
-
-
+      {/* CONTEÚDO (VAI FICAR EMBAIXO DA NAVEGAÇÃO) */}
+      <div className="conteudo">
+        <div className="conteudoEscrito">
+          <h1>Crafting spaces, <br /> shaping futures</h1>
+        </div>
+        <div className="conteudoimagem">
+          {/* Aqui você pode colocar sua imagem ou elemento visual */}
+        </div>
+      </div>
     </div>
   )
 }
