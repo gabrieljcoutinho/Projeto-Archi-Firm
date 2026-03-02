@@ -43,17 +43,4 @@
     display: block;
 }
 
-/* Responsividade: Empilhar em telas menores */
-@media (max-width: 768px) {
-
-    .secao-flex,
-    .secao-flex.reverse {
-        flex-direction: column;
-        padding: 2rem;
-    }
-
-    .tituloFocoDaEmpresa {
-        padding-left: 2rem;
-        font-size: 30px;
-    }
-}
+.paragrafoFocoDaEmrpesa {}
