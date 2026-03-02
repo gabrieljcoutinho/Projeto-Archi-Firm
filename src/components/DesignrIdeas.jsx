@@ -19,6 +19,7 @@ const DesignrIdeas = () => {
 
                         </div>
 
+<br /><br /><br />
                         <div className="desinerAreasDemostracao">
                         igmDesinerArea1
                         </div>
