@@ -6,11 +6,12 @@
     color: #fff;
     font-family: 'Roboto';
     padding-top: 5rem;
+    padding-left: 5rem;
 }
 
 .subTituloDesgner {
     color: red;
-    font-size: 40px;
+    font-size: 70px;
 }
 
 .conteudoInicialDesigner {
