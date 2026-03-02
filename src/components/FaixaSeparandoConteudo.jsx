@@ -1,6 +1,7 @@
 import React from 'react'
 import "../Css/faixaLaranjaSeparandoConteudo.css"
 
+import logoFaixaLAranja from "../img/logoFaixaLaranja1.png"
 
 const FaixaSeparandoConteudo = () => {
   return (
