@@ -5,7 +5,6 @@ import SectionImgDesign from "./components/SectionImgDesign.jsx"
 import FaixaSeparandoConteudo from "./components/FaixaSeparandoConteudo.jsx"
 import FocoDaEmpresa from "./components/FocoDaEmpresa.jsx"
 
-
 function App() {
   return (
     <div className="App">
