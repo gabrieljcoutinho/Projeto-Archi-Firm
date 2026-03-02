@@ -11,7 +11,7 @@ const FaixaSeparandoConteudo2 = () => {
 
         <ul className='listaDosbtns'>
 
-        <li><button>Learn more</button></li>
+        <li className='listaLinksDosBtns'><button>Learn more</button></li>
         <li><button>Contact Us</button></li>
 
         </ul>
