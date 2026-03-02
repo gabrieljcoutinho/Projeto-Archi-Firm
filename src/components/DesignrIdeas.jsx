@@ -5,8 +5,10 @@ const DesignrIdeas = () => {
   return (
     <div className='designers'>
 
-            <h4>Exploring design <br />
-                trends and ideas</h4>
+                        <div className="conteudoInicialDesigner">
+                        <h4>Exploring design <br />
+                        trends and ideas</h4>
+                        </div>
 
     </div>
   )
