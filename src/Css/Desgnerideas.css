@@ -58,3 +58,7 @@ h6 {
 .conteudoInterno {
     padding: 10px;
 }
+
+.paragrafo {
+    line-height: 30px;
+}
