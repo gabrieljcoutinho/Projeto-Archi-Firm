@@ -26,7 +26,7 @@ const FocoDaEmpresa = () => {
       <div className='secao-flex reverse'>
         <div className="texto">
           <h3>Título da Seção 2</h3>
-          <p>Outro texto explicativo, desta vez com a imagem invertida.</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa inventore et saepe. Hic debitis, possimus ducimus distinctio dolores molestiae? Aliquam cumque ipsa iure? Odit veniam placeat alias voluptates ipsam? Minus?</p>
         </div>
         <div className="imagem">
           <img src={img2} alt="Descrição 2" />
