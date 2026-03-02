@@ -6,3 +6,7 @@
     color: #fff;
     font-family: 'Roboto';
 }
+
+.conteudoInicialDesigner {
+    display: flex;
+}
