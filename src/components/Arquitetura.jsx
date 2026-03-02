@@ -56,7 +56,6 @@ const Arquitetura = () => {
 <a href="#" className='btnDiscover'>DISCOVER -></a>
     </div>
 
-
                 </div>
 
     </div>
