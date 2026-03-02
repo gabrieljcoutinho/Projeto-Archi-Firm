@@ -37,7 +37,7 @@ const Header = () => {
 
      <div className="btnsMovimentacao">
      <buton className="btnContato">Contact Us</buton>
-     <buton>Learn More</buton>
+     <buton className="btnLearMore">Learn More</buton>
      </div>
         </div>
 
