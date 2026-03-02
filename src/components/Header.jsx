@@ -25,7 +25,6 @@ const Header = () => {
         </div>
       </div>
 
-      {/* CONTEÚDO (VAI FICAR EMBAIXO DA NAVEGAÇÃO) */}
       <div className="conteudo">
         <div className="conteudoEscrito">
           <h1>Crafting spaces, <br /> shaping futures</h1>
