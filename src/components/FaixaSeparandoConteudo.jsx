@@ -3,6 +3,7 @@ import "../Css/faixaLaranjaSeparandoConteudo.css"
 
 import logoFaixaLAranja from "../img/logoFaixaLaranja1.png"
 import logoFaixaLAranja2 from "../img/logoFaixaLaranja2.png"
+import logoFaixaLAranja3 from "../img/logoFaixaLaranja3.png"
 
 const FaixaSeparandoConteudo = () => {
   return (
