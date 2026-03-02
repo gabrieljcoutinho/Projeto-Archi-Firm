@@ -1,8 +1,6 @@
 import React from 'react'
 
-type Props = {}
-
-const FocoDaEmpresa = (props: Props) => {
+const FocoDaEmpresa = () => {
   return (
     <div>FocoDaEmpresa</div>
   )
