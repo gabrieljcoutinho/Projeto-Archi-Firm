@@ -1,4 +1,5 @@
 import React from 'react'
+import "../../src/Css/faixaLaranjaSeparandoConteudo.css"
 
 
 const FaixaSeparandoConteudo2 = () => {
