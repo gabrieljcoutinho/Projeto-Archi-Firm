@@ -23,7 +23,9 @@ const FocoDaEmpresa = () => {
 
                 <div className='secao2'>
 
-                <img src={img2} alt="" />
+                <div className="conteudo2">
+                            <img src={img2} alt="" />
+                            </div>
 
 
                 </div>
