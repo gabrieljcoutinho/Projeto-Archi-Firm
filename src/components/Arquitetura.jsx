@@ -24,6 +24,7 @@ const Arquitetura = () => {
 
     <div className="arquiteturasDivConteudo">
 <img src={imgArquitetura1} alt="" />
+<h3>Interior design</h3>
     </div>
 
     <div className="arquiteturasDivConteudo">
