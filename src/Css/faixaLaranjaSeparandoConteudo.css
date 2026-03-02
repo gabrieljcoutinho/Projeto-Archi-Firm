@@ -1,3 +1,5 @@
+@import url(../fonts//Figtree.css);
+
 .faixa {
     background-color: #FF7B69;
     height: 500px;
@@ -6,4 +8,5 @@
     /* Removido o 'px', definido como posição relativa e z-index menor que a seção anterior */
     position: relative;
     z-index: 1;
+    font-family: "Figtree",
 }
