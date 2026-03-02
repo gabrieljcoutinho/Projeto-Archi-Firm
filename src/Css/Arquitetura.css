@@ -53,6 +53,7 @@ h3 {
 .btnDiscover {
     text-decoration: none;
     color: #FF7B69;
+    padding-top: 15rem;
 }
 
 .btnDiscover:hover {
