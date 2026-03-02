@@ -4,7 +4,7 @@
     padding: 2rem 7rem;
     display: flex;
     flex-direction: column;
-    min-height: 80vh;
+    height: 50px;
 }
 
 /* BARRA DE NAVEGAÇÃO */
@@ -50,7 +50,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 40px; /* Espaço entre o bloco de texto e o bloco de fotos */
+    gap: 40px;
+    /* Espaço entre o bloco de texto e o bloco de fotos */
 }
 
 .conteudoEscrito h1 {
@@ -71,7 +72,8 @@
 /* GRID DE IMAGENS (CONTEUDO 2) */
 .conteudo2 {
     display: flex;
-    gap: 20px; /* Espaçamento horizontal entre as duas colunas */
+    gap: 20px;
+    /* Espaçamento horizontal entre as duas colunas */
     align-items: flex-start;
 }
 
@@ -79,18 +81,23 @@
 .divConteudoImgParte1 {
     display: flex;
     flex-direction: column;
-    gap: 20px; /* Espaçamento vertical entre as imagens de cada coluna */
+    gap: 20px;
+    /* Espaçamento vertical entre as imagens de cada coluna */
 }
 
 /* EFEITO DE DESALINHAMENTO (A segunda coluna desce) */
 .conteudo2 .divConteudoImgParte1:nth-child(2) {
-    margin-top: 60px; /* Ajuste este valor para aumentar ou diminuir o degrau */
+    margin-top: 60px;
+    /* Ajuste este valor para aumentar ou diminuir o degrau */
 }
 
 /* AJUSTE DAS IMAGENS */
 .divConteudoImgParte1 img {
-    width: 280px; /* Largura fixa para manter o alinhamento igual à imagem */
-    height: 320px; /* Altura fixa para manter o padrão retangular */
-    object-fit: cover; /* Faz a imagem preencher o espaço sem distorcer */
+    width: 280px;
+    /* Largura fixa para manter o alinhamento igual à imagem */
+    height: 320px;
+    /* Altura fixa para manter o padrão retangular */
+    object-fit: cover;
+    /* Faz a imagem preencher o espaço sem distorcer */
     display: block;
 }
