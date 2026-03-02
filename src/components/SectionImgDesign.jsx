@@ -4,7 +4,11 @@ import React from 'react'
 
 const SectionImgDesign = () => {
   return (
-    <div></div>
+    <div>
+
+        <h3>Step inside our design journey: an exclusive video glimpse</h3>
+
+    </div>
   )
 }
 
