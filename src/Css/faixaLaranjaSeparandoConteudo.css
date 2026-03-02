@@ -22,10 +22,12 @@
     display: flex;
     padding-top: 3rem;
     padding-left: 5rem;
+    gap: 50px;
 }
 
 .listaSectionFaixaNaTela li {
     list-style-type: none;
+
 }
 
 .listaSectionFaixaNaTela li a {
