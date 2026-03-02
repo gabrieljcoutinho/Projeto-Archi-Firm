@@ -1,6 +1,7 @@
 import React from 'react'
 import "../Css/Sectiondesign.css"
 
+import exclusiveVideo from "../img/exclusiveVideo.png"
 
 
 const SectionImgDesign = () => {
