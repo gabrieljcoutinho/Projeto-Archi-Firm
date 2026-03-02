@@ -45,6 +45,11 @@ const Arquitetura = () => {
     <div className="arquiteturasDivConteudo">
     <img src={imgArquitetura3} alt="" />
     <h3>Space planning</h3>
+    <p className="descricaoArquitetura">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam odit sit praesentium sequi
+     exercitationem in ab officia doloribus repudiandae culpa magni delectus ratione deserunt
+      incidunt, rerum mollitia temporibus quae. Ea.
+</p>
     </div>
 
 
