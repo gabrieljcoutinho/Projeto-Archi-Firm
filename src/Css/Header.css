@@ -9,10 +9,12 @@
 .headerMenu {
     display: flex;
     gap: 20px;
+    list-style-type: none;
 }
 
 .linkListaHeader {
     color: #fff;
+    text-decoration: none;
 }
 
 .movimentacaobtn {
