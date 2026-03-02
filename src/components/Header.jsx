@@ -19,6 +19,20 @@ const Header = () => {
     <button className='btnContactUs'>Contact US</button>
     </div>
 
+
+          <div className="conteudo">
+
+              <div className="conteudoEscrito">
+
+              </div>
+
+              <div className="conteudoimagem">
+
+              </div>
+
+          </div>
+
+
     </div>
   )
 }
