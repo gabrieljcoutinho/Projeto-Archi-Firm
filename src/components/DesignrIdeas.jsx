@@ -3,7 +3,11 @@ import "../Css/Desgnerideas.css"
 
 const DesignrIdeas = () => {
   return (
-    <div className='designers'>DesignrIdeas</div>
+    <div className='designers'>
+
+            <h4>Exploring design trends and ideas</h4>
+
+    </div>
   )
 }
 
