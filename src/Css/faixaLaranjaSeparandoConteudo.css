@@ -22,3 +22,7 @@
     display: flex;
     padding-top: 3rem;
 }
+
+.listaSectionFaixaNaTela li {
+    list-style-type: none;
+}
