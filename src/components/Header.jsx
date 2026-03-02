@@ -5,7 +5,7 @@ import logo from "../img/logoHeader.png"
 
 const Header = () => {
   return (
-    <div>
+    <div className='header'>
            <ul className="headerMenu">
             <img src={logo} alt="logo" />
             <li className="headerMenuLista"><a href="#" className='linkListaHeader'>About</a></li>
