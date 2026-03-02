@@ -35,7 +35,19 @@ const Header = () => {
             beatae blanditiis, sapiente quia delectus debitis molestiae corrupti laborum,<br />
              minima nostrum enim cumque quaerat.</p>
         </div>
+
+
         <div className="conteudoimagem">
+
+
+              <div className="imgsEmColuna1">
+
+                    <div className="div1"></div>
+                    <div className="div1"></div>
+
+
+              </div>
+
 
           <div className="coluna1">
 a
