@@ -12,7 +12,7 @@ const FaixaSeparandoConteudo2 = () => {
         <ul>
 
         <li><button>Learn more</button></li>
-        <li><a href="#">Contact Us</a></li>
+        <li><button>Contact Us</button></li>
 
         </ul>
 
