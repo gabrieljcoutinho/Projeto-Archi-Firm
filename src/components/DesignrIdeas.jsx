@@ -20,8 +20,22 @@ const DesignrIdeas = () => {
                         </div>
 
 <br /><br /><br />
+
+
                         <div className="desinerAreasDemostracao">
-                        igmDesinerArea1
+
+                                <div className="divs">
+
+                                </div>
+
+                                <div className="divs">
+
+                                    </div>
+
+                                    <div className="divs">
+
+                                    </div>
+
                         </div>
 
     </div>
