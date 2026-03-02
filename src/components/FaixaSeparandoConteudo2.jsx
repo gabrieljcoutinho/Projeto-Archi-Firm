@@ -9,7 +9,7 @@ const FaixaSeparandoConteudo2 = () => {
       <h2 className='tituloSeparandoConteudo'>Start your architectural journey < br/>
         with us</h2>
 
-        <ul>
+        <ul className='listaDosbtns'>
 
         <li><button>Learn more</button></li>
         <li><button>Contact Us</button></li>
