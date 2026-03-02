@@ -34,6 +34,7 @@ const Arquitetura = () => {
 
     <div className="arquiteturasDivConteudo">
     <img src={imgArquitetura3} alt="" />
+    <h3>Space planning</h3>
     </div>
 
 
