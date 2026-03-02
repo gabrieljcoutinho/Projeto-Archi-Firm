@@ -15,11 +15,11 @@ const FaixaSeparandoConteudo = () => {
 
 
             <ul className="listaSectionFaixaNaTela">
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li><img src={logoFaixaLAranja} alt="" /></li>
+                    <li><img src={logoFaixaLAranja2} alt="" /></li>
+                    <li><img src={logoFaixaLAranja3} alt="" /></li>
+                    <li><img src={logoFaixaLAranja4} alt="" /></li>
+                    <li><img src={logoFaixaLAranja5} alt="" /></li>
             </ul>
 
 
