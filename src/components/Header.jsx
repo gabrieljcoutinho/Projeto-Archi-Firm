@@ -36,7 +36,7 @@ const Header = () => {
              minima nostrum enim cumque quaerat.</p>
 
      <div className="btnsMovimentacao">
-     <buton>Contact Us</buton>
+     <buton className="btnContato">Contact Us</buton>
      <buton>Learn More</buton>
      </div>
         </div>
