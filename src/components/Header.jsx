@@ -3,7 +3,7 @@ import "../Css/Header.css"
 import logo from "../img/logoHeader.png"
 
 import img1 from "../img/imgHeaderContrucao1.png"
-import img2 from "../img/"
+import img2 from "../img/imgHeaderContrucao2.png"
 import img3 from "../img/"
 import img4 from "../img/"
 
