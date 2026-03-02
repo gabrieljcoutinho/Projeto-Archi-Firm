@@ -52,15 +52,14 @@
 
 .btnContact {
     background-color: black;
-    /* Fundo preto */
     color: white;
-    /* Texto branco */
     border: 2px solid white;
-    /* Borda branca para destacar no fundo */
 
-    /* Propriedades para torná-lo quadrado */
-    width: 120px;
-    height: 120px;
+    /* Ajuste para formato Retangular */
+    width: 180px;
+    /* Aumentamos a largura */
+    height: 50px;
+    /* Diminuímos a altura para parecer um botão padrão */
 
     /* Reset de estilos padrão */
     cursor: pointer;
@@ -71,10 +70,12 @@
     text-align: center;
     padding: 10px;
     transition: 0.3s;
-    /* Suaviza efeitos de hover */
+
+    /* Remove bordas arredondadas se o navegador aplicar por padrão */
+    border-radius: 0;
 }
 
-/* Opcional: Efeito ao passar o mouse */
+/* Efeito ao passar o mouse */
 .btnContact:hover {
     background-color: white;
     color: black;
