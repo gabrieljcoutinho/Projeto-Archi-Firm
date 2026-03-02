@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "../../src/Css/Arquitetura.css"
 
 const Arquitetura = () => {
   return (
