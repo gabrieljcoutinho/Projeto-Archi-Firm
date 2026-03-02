@@ -35,7 +35,7 @@ const DesignrIdeas = () => {
 
                                 <div className="divs">
                                 <img src={img2} alt="" />
-
+                                <h6></h6>
                                     </div>
 
                                     <div className="divs">
