@@ -31,7 +31,7 @@ const Header = () => {
              minima nostrum enim cumque quaerat.</p>
         </div>
         <div className="conteudoimagem">
-          {/* Aqui você pode colocar sua imagem ou elemento visual */}
+
         </div>
       </div>
     </div>
