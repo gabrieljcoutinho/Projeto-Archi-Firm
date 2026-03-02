@@ -40,7 +40,6 @@ const Header = () => {
         </div>
 
               <div className="conteudo2">
-
                 <div className="divConteudoImgParte1">
               <img src={img1} alt="" className='img1'/>
               <img src={img3} alt="" />
