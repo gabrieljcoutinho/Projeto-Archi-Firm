@@ -13,7 +13,6 @@ const FaixaSeparandoConteudo = () => {
 
         <p className="conteudoDaFaixaLaranja">We collaborate with esteemed partners to shape our projects</p>
 
-
             <ul className="listaSectionFaixaNaTela">
                     <li><img src={logoFaixaLAranja} alt="" /></li>
                     <li><img src={logoFaixaLAranja2} alt="" /></li>
