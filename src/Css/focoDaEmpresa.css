@@ -34,7 +34,6 @@
 
 .imagem {
     flex: 1;
-    /* Faz a imagem ocupar a outra metade */
 }
 
 .imagem img {
