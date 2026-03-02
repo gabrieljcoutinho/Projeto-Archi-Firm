@@ -10,10 +10,13 @@
 /* Container principal para as seções */
 .secao-flex {
     display: flex;
-    align-items: center; /* Alinha verticalmente no centro */
-    justify-content: space-around; /* Espaça os elementos */
+    align-items: center;
+    /* Alinha verticalmente no centro */
+    justify-content: space-around;
+    /* Espaça os elementos */
     padding: 2rem 10rem;
-    gap: 50px; /* Espaço entre texto e imagem */
+    gap: 50px;
+    /* Espaço entre texto e imagem */
 }
 
 /* Classe especial para inverter a ordem */
@@ -23,11 +26,13 @@
 
 /* Estilização básica para o conteúdo */
 .texto {
-    flex: 1; /* Faz o texto ocupar metade do espaço */
+    flex: 1;
+    /* Faz o texto ocupar metade do espaço */
 }
 
 .imagem {
-    flex: 1; /* Faz a imagem ocupar a outra metade */
+    flex: 1;
+    /* Faz a imagem ocupar a outra metade */
 }
 
 .imagem img {
@@ -38,7 +43,9 @@
 
 /* Responsividade: Empilhar em telas menores */
 @media (max-width: 768px) {
-    .secao-flex, .secao-flex.reverse {
+
+    .secao-flex,
+    .secao-flex.reverse {
         flex-direction: column;
         padding: 2rem;
     }
