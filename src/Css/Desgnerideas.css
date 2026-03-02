@@ -29,6 +29,7 @@
 
 .desinerAreasDemostracao {
     justify-content: space-between;
+    gap: 40px;
 
 }
 
