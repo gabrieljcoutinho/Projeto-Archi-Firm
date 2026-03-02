@@ -3,7 +3,7 @@ import "../Css/Desgnerideas.css"
 
 const DesignrIdeas = () => {
   return (
-    <div>DesignrIdeas</div>
+    <div className='designers'>DesignrIdeas</div>
   )
 }
 
