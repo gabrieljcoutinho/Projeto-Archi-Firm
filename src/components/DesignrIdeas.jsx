@@ -31,6 +31,8 @@ const DesignrIdeas = () => {
                                 <div className="divs">
                                     <img src={img1} alt="" />
                                         <h6>Modernizinf a classic loft with serene interiors</h6>
+
+                                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et dignissimos quis, laudantium assumenda iste est sunt quod tenetur sequi magni corrupti inventore optio eius possimus voluptas architecto dolor qui aspernatur.</p>
                                 </div>
 
                                 <div className="divs">
