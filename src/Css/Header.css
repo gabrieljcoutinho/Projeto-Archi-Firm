@@ -94,14 +94,3 @@
     margin-top: 60px;
     /* Ajuste este valor para aumentar ou diminuir o degrau */
 }
-
-/* AJUSTE DAS IMAGENS */
-.divConteudoImgParte1 img {
-    width: 280px;
-    /* Largura fixa para manter o alinhamento igual à imagem */
-    height: 320px;
-    /* Altura fixa para manter o padrão retangular */
-    object-fit: cover;
-    /* Faz a imagem preencher o espaço sem distorcer */
-    display: block;
-}
