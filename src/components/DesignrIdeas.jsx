@@ -29,17 +29,17 @@ const DesignrIdeas = () => {
                         <div className="desinerAreasDemostracao">
 
                                 <div className="divs">
-                                    <img src={} alt="" />
+                                    <img src={img1} alt="" />
 
                                 </div>
 
                                 <div className="divs">
-                                <img src={} alt="" />
+                                <img src={img2} alt="" />
 
                                     </div>
 
                                     <div className="divs">
-                                    <img src={} alt="" />
+                                    <img src={img3} alt="" />
 
                                     </div>
 
