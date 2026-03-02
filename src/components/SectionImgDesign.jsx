@@ -5,7 +5,7 @@ import "../Css/Sectiondesign.css"
 
 const SectionImgDesign = () => {
   return (
-    <div>
+    <div className='SectionImgDesign'>
 
         <h3>Step inside our design journey: an exclusive video glimpse</h3>
 
