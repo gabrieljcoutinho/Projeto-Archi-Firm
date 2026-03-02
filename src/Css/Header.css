@@ -1,41 +1,65 @@
 .header {
     background-color: #1b1b1b;
-    padding-top: 1rem;
-    padding-bottom: 11rem;
+    padding: 2rem 7rem;
+    /* Espaçamento interno nas laterais e topo */
     display: flex;
-    gap: 20px;
-    padding-left: 7rem;
+    flex-direction: column;
+    /* Força os elementos a ficarem um abaixo do outro */
+    min-height: 80vh;
+    /* Faz o header ter uma altura boa */
+}
 
+/* Esta div segura o Logo, Menu e Botão em uma linha só */
+.headerNav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* Espalha os itens: Logo na esquerda, Botão na direita */
+    width: 100%;
+    margin-bottom: 5rem;
+    /* Cria espaço entre o menu e o texto abaixo */
 }
 
 .headerMenu {
     display: flex;
-    gap:60px;
+    gap: 40px;
     list-style-type: none;
-    padding-left: 25rem;
-    padding-top: 0.5rem;
+    margin: 0;
+    padding: 0;
 }
 
 .linkListaHeader {
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
-}
-
-.movimentacaobtn {
-    display: flex;
-    padding-left: 50rem;
+    font-size: 18px;
+    font-weight: 500;
 }
 
 .btnContactUs {
     background-color: #ff7b69;
     color: white;
-    /* Cor do texto */
     border: none;
-    /* Remove borda padrão */
-    padding: 15px 20px;
-    /* Espaçamento interno */
+    padding: 15px 30px;
     cursor: pointer;
-    /* Muda o cursor ao passar o mouse */
-    width: 150px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btnContactUs:hover {
+    background-color: #e06a5a;
+}
+
+/* ESTILIZAÇÃO DO CONTEÚDO ABAIXO DO MENU */
+.conteudo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudoEscrito h1 {
+    color: white;
+    font-size: 4rem;
+    /* Texto grande e impactante */
+    max-width: 600px;
+    line-height: 1.2;
 }
