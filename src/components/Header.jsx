@@ -35,9 +35,10 @@ const Header = () => {
             beatae blanditiis, sapiente quia delectus debitis molestiae corrupti laborum,<br />
              minima nostrum enim cumque quaerat.</p>
 
-     .btnsMovimentaçã<object data="
-             <buton>ds</buton>
-             <buton>ds</buton>" type=""></object>
+     <div className="btnsMovimentacao">
+     <buton>Contact Us</buton>
+     <buton>Learn More</buton>
+     </div>
         </div>
 
 
