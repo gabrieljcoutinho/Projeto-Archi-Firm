@@ -3,6 +3,7 @@ import Header from "./components/Header.jsx"
 import Arquitetura from "./components/Arquitetura.jsx"
 import SectionImgDesign from "./components/SectionImgDesign.jsx"
 import FaixaSeparandoConteudo from "./components/FaixaSeparandoConteudo.jsx"
+import FocoDaEmpresa from "./components/FocoDaEmpresa.jsx"
 
 
 function App() {
@@ -16,6 +17,8 @@ function App() {
   <SectionImgDesign />
 
   <FaixaSeparandoConteudo />
+
+  <FocoDaEmpresa />
 
     </div>
   );
