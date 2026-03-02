@@ -54,3 +54,7 @@ h3 {
     text-decoration: none;
     color: #FF7B69;
 }
+
+.btnDiscover:hover {
+    text-decoration: underline;
+}
