@@ -3,6 +3,10 @@
     display: flex;
 }
 
+.headerMenu {
+    display: flex;
+}
+
 .movimentacaobtn {
     display: flex;
 }
