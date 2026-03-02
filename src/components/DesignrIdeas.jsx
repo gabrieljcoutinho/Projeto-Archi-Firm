@@ -12,7 +12,9 @@ const DesignrIdeas = () => {
                                     </div>
 
                                         <div className="conteudoDesginer2">
-                                        <p className="paragrafoDescricaoDesgnerIdeas">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ipsa quod, exercitationem molestiae id nam, vel quam et aspernatur blanditiis nostrum. Aliquam vitae distinctio sapiente assumenda pariatur quo! Ducimus, nesciunt.</p>
+                                        <p className="paragrafoDescricaoDesgnerIdeas">Lorem ipsum dolor sit amet consectetur adipisicing elit.  <br />
+                                            Sunt ipsa quod, exercitationem molestiae id nam, vel quam et aspernatur blanditiis nostrum. <br />
+                                            Aliquam vitae distinctio sapiente assumenda pariatur quo! Ducimus, nesciunt.</p>
                                         </div>
 
                         </div>
