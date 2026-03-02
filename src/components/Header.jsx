@@ -32,6 +32,16 @@ const Header = () => {
         </div>
         <div className="conteudoimagem">
 
+          <div className="coluna1">
+a
+          </div>
+
+         <div className="coluna2">
+
+          s
+         </div>
+
+
         </div>
       </div>
     </div>
