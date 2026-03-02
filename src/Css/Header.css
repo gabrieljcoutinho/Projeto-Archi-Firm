@@ -3,10 +3,12 @@
     padding-top: 1rem;
     padding-bottom: 1rem;
     display: flex;
+    gap: 20px;
 }
 
 .headerMenu {
     display: flex;
+    gap: 20px;
 }
 
 .movimentacaobtn {
