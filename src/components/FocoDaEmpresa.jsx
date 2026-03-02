@@ -14,7 +14,7 @@ const FocoDaEmpresa = () => {
       {/* Seção 1: Texto na Esquerda, Imagem na Direita */}
       <div className='secao-flex'>
         <div className="texto">
-          <h3>Título da Seção 1</h3>
+
           <p className='paragrafoFocoDaEmrpesa'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex repellendus earum sequi aperiam nobis molestias eligendi repudiandae ratione maiores, dolor quis necessitatibus voluptate consectetur omnis facilis accusantium beatae est eum!.</p>
         </div>
         <div className="imagem">
@@ -25,7 +25,7 @@ const FocoDaEmpresa = () => {
       {/* Seção 2: Imagem na Esquerda, Texto na Direita */}
       <div className='secao-flex reverse'>
         <div className="texto">
-          <h3>Título da Seção 2</h3>
+
           <p className='paragrafoFocoDaEmrpesa'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa inventore et saepe. Hic debitis, possimus ducimus distinctio dolores molestiae? Aliquam cumque ipsa iure? Odit veniam placeat alias voluptates ipsam? Minus?</p>
         </div>
         <div className="imagem">
