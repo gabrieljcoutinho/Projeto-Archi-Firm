@@ -1,4 +1,6 @@
 .faixa {
     background-color: #FF7B69;
     height: 300px;
+    transform: translate(0, -50px);
+    z-index: -10px;
 }
