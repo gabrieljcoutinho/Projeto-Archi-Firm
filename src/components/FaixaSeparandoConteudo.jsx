@@ -4,7 +4,7 @@ import "../Css/faixaLaranjaSeparandoConteudo.css"
 
 const FaixaSeparandoConteudo = () => {
   return (
-    <div>FaixaSeparandoConteudo</div>
+    <div className='faixa'>FaixaSeparandoConteudo</div>
   )
 }
 
