@@ -116,6 +116,7 @@
     background-color: #ff7b69;
     padding: 10px;
     color: #fff;
+    cursor: pointer;
 }
 
 .btnLearMore {
@@ -125,4 +126,5 @@
     padding: 10px;
     color: #fff;
     height: 20px;
+    cursor: pointer;
 }
