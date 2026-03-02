@@ -9,7 +9,7 @@ const FocoDaEmpresa = () => {
   return (
     <div>
 
-        <h4>We consistently focus on < br/>
+        <h4 className='tituloFocoDaEmpresa'>We consistently focus on < br/>
              both beauty and usability</h4>
 
                 <div className='secao1'>
