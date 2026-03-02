@@ -21,3 +21,30 @@
     list-style: none;
     padding-top: 5rem;
 }
+
+
+
+.btnLeranMore {
+    background-color: transparent;
+    /* Fundo transparente */
+    border: 2px solid #fff;
+    /* Borda branca */
+    color: #fff;
+    /* Texto branco */
+    padding: 10px 20px;
+    /* Preenchimento interno */
+    font-size: 16px;
+    /* Tamanho da fonte */
+    cursor: pointer;
+    /* Muda o cursor para um ponteiro ao passar o mouse */
+    border-radius: 5px;
+    /* Cantos levemente arredondados */
+}
+
+/* Efeito ao passar o mouse (opcional) */
+.btnLeranMore:hover {
+    background-color: #fff;
+    /* Fundo branco ao passar o mouse */
+    color: #000;
+    /* Texto preto ao passar o mouse */
+}
