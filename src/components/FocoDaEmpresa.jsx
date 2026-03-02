@@ -1,4 +1,7 @@
 import React from 'react'
+
+import "../Css/focoDaEmpresa.css"
+
 import img1 from "../../src/img/imgFocoDaEmpresa.png"
 import img2 from "../../src/img/imgFocoDaEmpresa2.png"
 
