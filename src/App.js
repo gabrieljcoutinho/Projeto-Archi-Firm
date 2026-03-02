@@ -5,6 +5,7 @@ import SectionImgDesign from "./components/SectionImgDesign.jsx"
 import FaixaSeparandoConteudo from "./components/FaixaSeparandoConteudo.jsx"
 import FocoDaEmpresa from "./components/FocoDaEmpresa.jsx"
 import FaixaSeparandoConteudo2 from "./components/FaixaSeparandoConteudo2.jsx"
+import DesignrIdeas from "./components/DesignrIdeas.jsx"
 
 function App() {
   return (
@@ -21,6 +22,8 @@ function App() {
   <FocoDaEmpresa />
 
   <FaixaSeparandoConteudo2 />
+
+  <DesignrIdeas />
 
     </div>
   );
