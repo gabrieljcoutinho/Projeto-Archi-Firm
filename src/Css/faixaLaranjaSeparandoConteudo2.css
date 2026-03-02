@@ -9,3 +9,7 @@
     color: #fff;
     font-size: 40px;
 }
+
+.listaDosbtns {
+    display: flex;
+}
