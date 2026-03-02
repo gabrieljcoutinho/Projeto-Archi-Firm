@@ -6,8 +6,9 @@ import logo from "../img/logoHeader.png"
 const Header = () => {
   return (
     <div className='header'>
+           <img src={logo} alt="logo" />
            <ul className="headerMenu">
-            <img src={logo} alt="logo" />
+
             <li className="headerMenuLista"><a href="#" className='linkListaHeader'>About</a></li>
             <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Service</a></li>
             <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Blog</a></li>
@@ -16,7 +17,7 @@ const Header = () => {
 
     <div className="movimentacaobtn">
     <button>Contact US</button>
-    <button>Learn more'</button>
+    <button>Learn more</button>
     </div>
 
     </div>
