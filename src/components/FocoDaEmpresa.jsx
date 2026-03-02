@@ -1,38 +1,39 @@
-import React from 'react'
-
-import "../Css/focoDaEmpresa.css"
-
-import img1 from "../../src/img/imgFocoDaEmpresa.png"
-import img2 from "../../src/img/imgFocoDaEmpresa2.png"
+import React from 'react';
+import "../Css/focoDaEmpresa.css";
+import img1 from "../../src/img/imgFocoDaEmpresa.png";
+import img2 from "../../src/img/imgFocoDaEmpresa2.png";
 
 const FocoDaEmpresa = () => {
   return (
-    <div>
+    <div className="container-foco">
+      <h4 className='tituloFocoDaEmpresa'>
+        We consistently focus on <br/>
+        both beauty and usability
+      </h4>
 
-        <h4 className='tituloFocoDaEmpresa'>We consistently focus on < br/>
-             both beauty and usability</h4>
+      {/* Seção 1: Texto na Esquerda, Imagem na Direita */}
+      <div className='secao-flex'>
+        <div className="texto">
+          <h3>Título da Seção 1</h3>
+          <p>Seu texto descritivo aqui explicando o foco da empresa.</p>
+        </div>
+        <div className="imagem">
+          <img src={img1} alt="Descrição 1" />
+        </div>
+      </div>
 
-                <div className='secao1'>
-
-                            <div className="conteudo1">
-                            <img src={img1} alt="" />
-                            </div>
-
-
-                </div>
-
-                <div className='secao2'>
-
-                <div className="conteudo2">
-                            <img src={img2} alt="" />
-                            </div>
-
-
-                </div>
-
-
+      {/* Seção 2: Imagem na Esquerda, Texto na Direita */}
+      <div className='secao-flex reverse'>
+        <div className="texto">
+          <h3>Título da Seção 2</h3>
+          <p>Outro texto explicativo, desta vez com a imagem invertida.</p>
+        </div>
+        <div className="imagem">
+          <img src={img2} alt="Descrição 2" />
+        </div>
+      </div>
     </div>
-  )
+  );
 }
 
-export default FocoDaEmpresa
+export default FocoDaEmpresa;
