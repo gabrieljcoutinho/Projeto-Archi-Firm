@@ -7,6 +7,10 @@
     font-family: 'Roboto';
 }
 
+.subTituloDesgner {
+    color: red;
+}
+
 .conteudoInicialDesigner {
     display: flex;
 }
