@@ -8,5 +8,8 @@
     /* Removido o 'px', definido como posição relativa e z-index menor que a seção anterior */
     position: relative;
     z-index: 1;
-    font-family: "Figtree",
+}
+
+.conteudoDaFaixaLaranja {
+    font-family: "Figtree";
 }
