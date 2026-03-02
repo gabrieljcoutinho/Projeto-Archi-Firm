@@ -22,3 +22,9 @@
     padding-left: 40rem;
     line-height: 40px;
 }
+
+
+
+.flexbox {
+    display: flex;
+}
