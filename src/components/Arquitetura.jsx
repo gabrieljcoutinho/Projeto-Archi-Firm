@@ -30,6 +30,7 @@ const Arquitetura = () => {
      exercitationem in ab officia doloribus repudiandae culpa magni delectus ratione deserunt
       incidunt, rerum mollitia temporibus quae. Ea.
 </p>
+<br />
 <a href="#" className='btnDiscover'>DISCOVER -></a>
     </div>
 
@@ -41,6 +42,7 @@ const Arquitetura = () => {
      exercitationem in ab officia doloribus repudiandae culpa magni delectus ratione deserunt
       incidunt, rerum mollitia temporibus quae. Ea.
 </p>
+<br />
 <a href="#" className='btnDiscover'>DISCOVER -></a>
     </div>
 
@@ -52,6 +54,7 @@ const Arquitetura = () => {
      exercitationem in ab officia doloribus repudiandae culpa magni delectus ratione deserunt
       incidunt, rerum mollitia temporibus quae. Ea.
 </p>
+<br />
 <a href="#" className='btnDiscover'>DISCOVER -></a>
     </div>
 
