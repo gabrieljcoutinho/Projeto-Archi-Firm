@@ -37,7 +37,7 @@ const Header = () => {
         </div>
 
 
-              <div className="conteu2">
+              <div className="conteudo2">
 
                 <div className="divConteudoImgParte1">
               <img src={img1} alt="" />
@@ -45,7 +45,7 @@ const Header = () => {
 
                 </div>
 
-                <div className="divConteudoImgParte2">
+                <div className="divConteudoImgParte1">
                 <img src={img2} alt="" />
                 <img src={img4} alt="" />
 
