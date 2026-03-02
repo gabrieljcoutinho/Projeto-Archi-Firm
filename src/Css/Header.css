@@ -52,6 +52,7 @@
     justify-content: space-between;
     gap: 40px;
     /* Espaço entre o bloco de texto e o bloco de fotos */
+    transform: translate(0px, -20px);
 }
 
 .conteudoEscrito h1 {
