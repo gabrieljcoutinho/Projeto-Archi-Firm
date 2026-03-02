@@ -1,5 +1,6 @@
 import '../src/index.css';
 import Header from "./components/Header.jsx"
+import Arquitetura from "./components/Arquitetura.jsx"
 
 
 function App() {
@@ -7,6 +8,8 @@ function App() {
     <div className="App">
 
 <Header />
+
+
 
     </div>
   );
