@@ -7,6 +7,8 @@ import FocoDaEmpresa from "./components/FocoDaEmpresa.jsx"
 import FaixaSeparandoConteudo2 from "./components/FaixaSeparandoConteudo2.jsx"
 import DesignrIdeas from "./components/DesignrIdeas.jsx"
 
+import Footer from "./components/Footer.jsx"
+
 function App() {
   return (
     <div className="App">
