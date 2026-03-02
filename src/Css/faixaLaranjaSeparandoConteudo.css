@@ -26,3 +26,7 @@
 .listaSectionFaixaNaTela li {
     list-style-type: none;
 }
+
+.listaSectionFaixaNaTela li a {
+    text-decoration: none;
+}
