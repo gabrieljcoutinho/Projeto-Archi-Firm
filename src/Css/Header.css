@@ -108,3 +108,9 @@
     display: flex;
     gap: 10px;
 }
+
+.btnContato {
+    border: none;
+    background-color: none;
+    background-color: red;
+}
