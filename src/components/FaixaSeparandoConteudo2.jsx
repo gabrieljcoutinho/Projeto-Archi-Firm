@@ -11,8 +11,8 @@ const FaixaSeparandoConteudo2 = () => {
 
         <ul>
 
-        <li><a href="#"></a></li>
-        <li><a href="#"></a></li>
+        <li><a href="#">Learn more</a></li>
+        <li><a href="#">Contact Us</a></li>
 
         </ul>
 
