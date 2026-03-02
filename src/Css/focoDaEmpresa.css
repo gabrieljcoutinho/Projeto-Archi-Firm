@@ -1,7 +1,50 @@
-@import url(../fonts//Figtree.css);
+@import url(../fonts/Figtree.css);
 
 .tituloFocoDaEmpresa {
     font-size: 40px;
     padding-left: 10rem;
     font-family: "Figtree";
+    margin-bottom: 50px;
+}
+
+/* Container principal para as seções */
+.secao-flex {
+    display: flex;
+    align-items: center; /* Alinha verticalmente no centro */
+    justify-content: space-around; /* Espaça os elementos */
+    padding: 2rem 10rem;
+    gap: 50px; /* Espaço entre texto e imagem */
+}
+
+/* Classe especial para inverter a ordem */
+.secao-flex.reverse {
+    flex-direction: row-reverse;
+}
+
+/* Estilização básica para o conteúdo */
+.texto {
+    flex: 1; /* Faz o texto ocupar metade do espaço */
+}
+
+.imagem {
+    flex: 1; /* Faz a imagem ocupar a outra metade */
+}
+
+.imagem img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Responsividade: Empilhar em telas menores */
+@media (max-width: 768px) {
+    .secao-flex, .secao-flex.reverse {
+        flex-direction: column;
+        padding: 2rem;
+    }
+
+    .tituloFocoDaEmpresa {
+        padding-left: 2rem;
+        font-size: 30px;
+    }
 }
