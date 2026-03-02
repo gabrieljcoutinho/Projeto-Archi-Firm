@@ -10,7 +10,7 @@ const FaixaSeparandoConteudo = () => {
 
 
             <ul className="listaSectionFaixaNaTela">
-            font-family: "Figtree",
+                
             </ul>
 
 
