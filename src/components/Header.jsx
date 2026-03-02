@@ -10,7 +10,6 @@ import img4 from "../img/imgHeaderContrucao4.png"
 const Header = () => {
   return (
     <div className='header'>
-      {/* BARRA DE NAVEGAÇÃO (LOGO + MENU + BOTÃO) */}
       <div className="headerNav">
         <img src={logo} alt="logo" className="logoHeader" />
 
