@@ -17,7 +17,6 @@ const Arquitetura = () => {
                         expedita perferendis exercitationem dolorum molestiae similique, eveniet, suscipit quos<br/>
                          officia voluptatibus voluptatum neque aliquam quo libero doloremque?</p>
             </div>
-
                 <div className="flexbox">
 
 
