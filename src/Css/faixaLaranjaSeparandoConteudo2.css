@@ -13,3 +13,7 @@
 .listaDosbtns {
     display: flex;
 }
+
+.listaLinksDosBtns {
+    list-style: none;
+}
