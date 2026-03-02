@@ -1,6 +1,10 @@
 import React from 'react'
 import "../Css/Desgnerideas.css"
 
+import img1 from "../../src/img/igmDesinerArea1.png"
+import img2 from "../../src/img/igmDesinerArea2.png"
+import img3 from "../../src/img/igmDesinerArea3.png"
+
 const DesignrIdeas = () => {
   return (
     <div className='designers'>
