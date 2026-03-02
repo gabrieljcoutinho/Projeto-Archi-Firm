@@ -37,14 +37,22 @@ const Header = () => {
         </div>
 
 
-        <div className="conteudoimagem">
+              <div className="conteu2">
 
+                <div className="divConteudoImgParte1">
+              <img src={img1} alt="" />
+              <img src={img3} alt="" />
 
+                </div>
 
+                <div className="divConteudoImgParte2">
+                <img src={img2} alt="" />
+                <img src={img4} alt="" />
 
+                </div>
 
+              </div>
 
-        </div>
 
 
       </div>
