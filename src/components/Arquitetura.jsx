@@ -30,6 +30,7 @@ const Arquitetura = () => {
      exercitationem in ab officia doloribus repudiandae culpa magni delectus ratione deserunt
       incidunt, rerum mollitia temporibus quae. Ea.
 </p>
+<a href="#">DISCOVER -></a>
     </div>
 
     <div className="arquiteturasDivConteudo">
