@@ -18,7 +18,6 @@
     /* Espaça os elementos */
     padding: 2rem 10rem;
     gap: 50px;
-    /* Espaço entre texto e imagem */
 }
 
 .secao-flex.reverse {
