@@ -1,5 +1,6 @@
 .SectionImgDesign {
     height: 600px;
+    z-index: 600px;
 }
 
 .tituloSectionDesign {
