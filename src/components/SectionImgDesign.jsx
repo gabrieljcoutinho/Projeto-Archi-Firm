@@ -7,7 +7,8 @@ const SectionImgDesign = () => {
   return (
     <div className='SectionImgDesign'>
 
-        <h3 className='tituloSectionDesign'>Step inside our design journey: an exclusive video glimpse</h3>
+        <h3 className='tituloSectionDesign'>Step inside our design journey:< br/>
+             an exclusive video glimpse</h3>
 
     </div>
   )
