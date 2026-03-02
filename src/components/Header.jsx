@@ -40,26 +40,13 @@ const Header = () => {
         <div className="conteudoimagem">
 
 
-              <div className="imgsEmColuna1">
-
-                    <div className="div1"></div>
-                    <div className="div1"></div>
 
 
-              </div>
-
-
-          <div className="coluna1">
-a
-          </div>
-
-         <div className="coluna2">
-
-          s
-         </div>
 
 
         </div>
+
+
       </div>
     </div>
   )
