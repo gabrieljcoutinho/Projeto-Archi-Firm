@@ -6,7 +6,7 @@ const FaixaSeparandoConteudo2 = () => {
   return (
     <div className='FaixaSeparandoConteudo2'>
 
-      <h2 className='titulo'>Start your architectural journey < br/>
+      <h2 className='tituloSeparandoConteudo'>Start your architectural journey < br/>
         with us</h2>
 
       </div>
