@@ -69,6 +69,10 @@
     max-width: 500px;
 }
 
+.conteudoEscrito {
+    transform: translate(0px, -10px);
+}
+
 /* GRID DE IMAGENS (CONTEUDO 2) */
 .conteudo2 {
     display: flex;
