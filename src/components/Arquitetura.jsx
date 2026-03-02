@@ -18,7 +18,6 @@ const Arquitetura = () => {
                          officia voluptatibus voluptatum neque aliquam quo libero doloremque?</p>
             </div>
 
-
                 <div className="flexbox">
 
 
