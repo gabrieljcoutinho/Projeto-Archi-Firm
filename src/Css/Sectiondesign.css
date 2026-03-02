@@ -1,6 +1,8 @@
 .SectionImgDesign {
     height: 600px;
-    z-index: 600px;
+    /* Removido o 'px' e adicionado position para o z-index funcionar */
+    position: relative;
+    z-index: 2;
 }
 
 .tituloSectionDesign {
@@ -10,5 +12,7 @@
 }
 
 .imgFalsoVideo {
+    /* Mantenha seu estilo original ou use display: block; margin: auto; para centralizar */
     padding-left: 500px;
 }
+
