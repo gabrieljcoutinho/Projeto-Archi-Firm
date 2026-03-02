@@ -2,6 +2,11 @@ import React from 'react'
 import "../Css/Header.css"
 import logo from "../img/logoHeader.png"
 
+import img1 from "../img/"
+import img2 from "../img/"
+import img3 from "../img/"
+import img4 from "../img/"
+
 const Header = () => {
   return (
     <div className='header'>
