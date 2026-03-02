@@ -15,7 +15,7 @@ const FocoDaEmpresa = () => {
       <div className='secao-flex'>
         <div className="texto">
           <h3>Título da Seção 1</h3>
-          <p>Seu texto descritivo aqui explicando o foco da empresa.</p>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex repellendus earum sequi aperiam nobis molestias eligendi repudiandae ratione maiores, dolor quis necessitatibus voluptate consectetur omnis facilis accusantium beatae est eum!.</p>
         </div>
         <div className="imagem">
           <img src={img1} alt="Descrição 1" />
