@@ -16,6 +16,7 @@ const FaixaSeparandoConteudo = () => {
             <ul className="listaSectionFaixaNaTela">
                     <li></li>
                     <li></li>
+                    <li></li>
             </ul>
 
 
