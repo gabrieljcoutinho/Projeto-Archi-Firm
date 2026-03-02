@@ -8,6 +8,12 @@ const FaixaSeparandoConteudo = () => {
 
         <p className="conteudoDaFaixaLaranja">We collaborate with esteemed partners to shape our projects</p>
 
+
+            <ul className="listaSectionFaixaNaTela">
+            font-family: "Figtree",
+            </ul>
+
+
     </div>
   )
 }
