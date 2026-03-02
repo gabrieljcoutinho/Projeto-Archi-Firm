@@ -22,7 +22,7 @@
 
 .movimentacaobtn {
     display: flex;
-    padding-left: 25rem;
+    padding-left: 50rem;
 }
 
 .btnContactUs {
@@ -31,10 +31,9 @@
     /* Cor do texto */
     border: none;
     /* Remove borda padrão */
-    padding: 10px 20px;
+    padding: 15px 20px;
     /* Espaçamento interno */
     cursor: pointer;
     /* Muda o cursor ao passar o mouse */
-    border-radius: 5px;
-    /* Arredonda os cantos (opcional) */
+    width: 150px;
 }
