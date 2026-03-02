@@ -3,7 +3,7 @@ import "../../src/Css/Arquitetura.css"
 
 const Arquitetura = () => {
   return (
-    <div>
+    <div className='arquiteura'>
 
      <div className="tituloTexto">
      <h2 className='titulo'>Our range of <br />
