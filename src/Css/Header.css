@@ -1,10 +1,11 @@
 .header {
     background-color: #1b1b1b;
     padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-bottom: 11rem;
     display: flex;
     gap: 20px;
     padding-left: 7rem;
+
 }
 
 .headerMenu {
