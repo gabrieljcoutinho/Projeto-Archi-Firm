@@ -4,6 +4,7 @@ import Arquitetura from "./components/Arquitetura.jsx"
 import SectionImgDesign from "./components/SectionImgDesign.jsx"
 import FaixaSeparandoConteudo from "./components/FaixaSeparandoConteudo.jsx"
 import FocoDaEmpresa from "./components/FocoDaEmpresa.jsx"
+import FaixaSeparandoConteudo2 from "./components/FaixaSeparandoConteudo2.jsx"
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
   <FaixaSeparandoConteudo />
 
   <FocoDaEmpresa />
+
+  <FaixaSeparandoConteudo2 />
 
     </div>
   );
