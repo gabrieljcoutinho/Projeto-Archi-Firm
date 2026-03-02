@@ -117,3 +117,12 @@
     padding: 10px;
     color: #fff;
 }
+
+.btnLearMore {
+    border: none;
+    background-color: none;
+    background-color: #000;
+    padding: 10px;
+    color: #fff;
+    height: 20px;
+}
