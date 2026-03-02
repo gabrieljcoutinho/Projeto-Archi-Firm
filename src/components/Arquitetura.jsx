@@ -29,6 +29,7 @@ const Arquitetura = () => {
 
     <div className="arquiteturasDivConteudo">
     <img src={imgArquitetura2} alt="" />
+    <h3>Exterior desgin</h3>
     </div>
 
     <div className="arquiteturasDivConteudo">
