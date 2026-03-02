@@ -50,6 +50,7 @@ h3 {
     line-height: 30px;
 }
 
-.btnDiscover{
-    
+.btnDiscover {
+    text-decoration: none;
+    color: #FF7B69;
 }
