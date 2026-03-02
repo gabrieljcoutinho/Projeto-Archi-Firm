@@ -2,7 +2,7 @@
 
 .faixa {
     background-color: #FF7B69;
-    height: 500px;
+    height: 400px;
     /* O transform move a faixa para cima da imagem se necessário */
     transform: translate(0, -50px);
     /* Removido o 'px', definido como posição relativa e z-index menor que a seção anterior */
