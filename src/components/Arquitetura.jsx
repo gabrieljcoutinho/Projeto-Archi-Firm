@@ -15,6 +15,24 @@ const Arquitetura = () => {
             </div>
 
 
+                <div className="flexbox">
+
+
+    <div className="arquiteturasDivConteudo">
+
+    </div>
+
+    <div className="arquiteturasDivConteudo">
+
+    </div>
+
+    <div className="arquiteturasDivConteudo">
+
+    </div>
+
+
+                </div>
+
     </div>
   )
 }
