@@ -27,6 +27,11 @@
 }
 
 
+.desinerAreasDemostracao {
+    justify-content: space-between;
+
+}
+
 .divs {
     height: 100px;
     background-color: #252525;
