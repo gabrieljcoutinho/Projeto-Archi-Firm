@@ -26,5 +26,15 @@
 }
 
 .btnContactUs {
-    background: none;
+    background-color: #ff7b69;
+    color: white;
+    /* Cor do texto */
+    border: none;
+    /* Remove borda padrão */
+    padding: 10px 20px;
+    /* Espaçamento interno */
+    cursor: pointer;
+    /* Muda o cursor ao passar o mouse */
+    border-radius: 5px;
+    /* Arredonda os cantos (opcional) */
 }
