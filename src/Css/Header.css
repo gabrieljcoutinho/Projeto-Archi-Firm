@@ -63,3 +63,8 @@
     max-width: 600px;
     line-height: 1.2;
 }
+
+.paragrafoHeader{
+    color: #fff;
+    padding-top: 1rem;
+}
