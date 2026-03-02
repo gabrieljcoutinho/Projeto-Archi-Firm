@@ -13,7 +13,6 @@
 .secao-flex {
     display: flex;
     align-items: center;
-    /* Alinha verticalmente no centro */
     justify-content: space-around;
     padding: 2rem 10rem;
     gap: 50px;
