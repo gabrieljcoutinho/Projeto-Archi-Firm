@@ -11,7 +11,7 @@
     display: flex;
     gap: 20px;
     list-style-type: none;
-    padding-left: 5rem;
+    padding-left: 25rem;
 }
 
 .linkListaHeader {
@@ -22,5 +22,5 @@
 
 .movimentacaobtn {
     display: flex;
-    padding-left: 5rem;
+    padding-left:25rem;
 }
