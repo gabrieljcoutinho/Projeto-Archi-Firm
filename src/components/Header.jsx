@@ -14,6 +14,10 @@ const Header = () => {
             <li className="headerMenuLista"><a href="#" className='linkListaHeader'>Careers</a></li>
            </ul>
 
+    <div className="movimentacaobtn">
+    <button>Contact US</button>
+    <button>Learn more'</button>
+    </div>
 
     </div>
   )
