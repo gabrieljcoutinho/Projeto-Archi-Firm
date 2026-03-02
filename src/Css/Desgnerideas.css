@@ -31,9 +31,7 @@
     display: flex;
     /* torna o container flexível */
     justify-content: space-between;
-    /* espaça igualmente as divs */
-    gap: 40px;
-    /* espaço fixo entre as divs */
+
 }
 
 .divs {
