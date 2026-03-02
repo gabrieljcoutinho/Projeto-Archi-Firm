@@ -27,6 +27,8 @@ function App() {
 
   <DesignrIdeas />
 
+  <Footer/>
+
     </div>
   );
 }
