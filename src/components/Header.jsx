@@ -25,7 +25,7 @@ const Header = () => {
       <div className="conteudo">
         <div className="conteudoEscrito">
           <h1>Crafting spaces, <br /> shaping futures</h1>
-          <p className="paragrafoheader">
+          <p className="paragrafoHeader">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo illum in inventore quibusdam incidunt optio fugiat,
             beatae blanditiis, sapiente quia delectus debitis molestiae corrupti laborum,
              minima nostrum enim cumque quaerat.</p>
