@@ -40,7 +40,7 @@ const DesignrIdeas = () => {
 
                                     <div className="divs">
                                     <img src={img3} alt="" />
-
+                                    <h6></h6>
                                     </div>
 
                         </div>
