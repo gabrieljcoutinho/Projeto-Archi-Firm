@@ -22,5 +22,9 @@
 
 .movimentacaobtn {
     display: flex;
-    padding-left:25rem;
+    padding-left: 25rem;
+}
+
+.btnContactUs {
+    background: none;
 }
