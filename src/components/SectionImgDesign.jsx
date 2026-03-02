@@ -3,7 +3,6 @@ import "../Css/Sectiondesign.css"
 
 import exclusiveVideo from "../img/exclusiveVideo.png"
 
-
 const SectionImgDesign = () => {
   return (
     <div className='SectionImgDesign'>
