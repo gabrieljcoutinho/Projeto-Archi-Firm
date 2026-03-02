@@ -28,12 +28,17 @@
 
 
 .desinerAreasDemostracao {
+    display: flex;
+    /* torna o container flexível */
     justify-content: space-between;
+    /* espaça igualmente as divs */
     gap: 40px;
-
+    /* espaço fixo entre as divs */
 }
 
 .divs {
     height: 100px;
+    width: 100px;
+    /* importante para ver o efeito do espaço */
     background-color: #252525;
 }
