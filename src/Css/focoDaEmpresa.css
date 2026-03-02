@@ -21,7 +21,6 @@
     /* Espaço entre texto e imagem */
 }
 
-/* Classe especial para inverter a ordem */
 .secao-flex.reverse {
     flex-direction: row-reverse;
 }
