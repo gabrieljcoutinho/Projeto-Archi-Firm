@@ -48,3 +48,34 @@
     color: #000;
     /* Texto preto ao passar o mouse */
 }
+
+
+.btnContact {
+    background-color: black;
+    /* Fundo preto */
+    color: white;
+    /* Texto branco */
+    border: 2px solid white;
+    /* Borda branca para destacar no fundo */
+
+    /* Propriedades para torná-lo quadrado */
+    width: 120px;
+    height: 120px;
+
+    /* Reset de estilos padrão */
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    transition: 0.3s;
+    /* Suaviza efeitos de hover */
+}
+
+/* Opcional: Efeito ao passar o mouse */
+.btnContact:hover {
+    background-color: white;
+    color: black;
+}
