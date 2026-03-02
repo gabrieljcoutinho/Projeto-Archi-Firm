@@ -94,3 +94,8 @@
     margin-top: 60px;
     /* Ajuste este valor para aumentar ou diminuir o degrau */
 }
+
+.divConteudoImgParte1,
+.divConteudoImgParte2 img {
+    width: 400px;
+}
