@@ -23,15 +23,15 @@ const Arquitetura = () => {
 
 
     <div className="arquiteturasDivConteudo">
-a
+<img src={imgArquitetura1} alt="" />
     </div>
 
     <div className="arquiteturasDivConteudo">
-b
+    <img src={imgArquitetura2} alt="" />
     </div>
 
     <div className="arquiteturasDivConteudo">
-c
+    <img src={imgArquitetura3} alt="" />
     </div>
 
 
