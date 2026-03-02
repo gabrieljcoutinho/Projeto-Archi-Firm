@@ -1,6 +1,10 @@
 import React from 'react'
 import "../../src/Css/Arquitetura.css"
 
+import imgArquitetura1 from "../img/iconeArquitetura1.png"
+import imgArquitetura2 from "../img/iconeArquitetura2.png"
+import imgArquitetura3 from "../img/iconeArquitetura3.png"
+
 const Arquitetura = () => {
   return (
     <div className='arquiteura'>
