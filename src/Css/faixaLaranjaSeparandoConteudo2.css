@@ -26,19 +26,27 @@
 
 .btnLeranMore {
     background-color: transparent;
-    /* Fundo transparente */
-    border: 2px solid #fff;
-    /* Borda branca */
-    color: #fff;
-    /* Texto branco */
-    padding: 10px 20px;
-    /* Preenchimento interno */
-    font-size: 16px;
-    /* Tamanho da fonte */
+    color: white;
+    border: 2px solid white;
+
+    /* Ajuste para formato Retangular */
+    width: 180px;
+    /* Aumentamos a largura */
+    height: 50px;
+    /* Diminuímos a altura para parecer um botão padrão */
+
+    /* Reset de estilos padrão */
     cursor: pointer;
-    /* Muda o cursor para um ponteiro ao passar o mouse */
-    border-radius: 5px;
-    /* Cantos levemente arredondados */
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    transition: 0.3s;
+
+    /* Remove bordas arredondadas se o navegador aplicar por padrão */
+    border-radius: 0;
 }
 
 /* Efeito ao passar o mouse (opcional) */
