@@ -21,7 +21,7 @@
 .listaSectionFaixaNaTela {
     display: flex;
     padding-top: 3rem;
-    padding-left: 30rem;
+    padding-left: 40rem;
     gap: 50px;
 }
 
