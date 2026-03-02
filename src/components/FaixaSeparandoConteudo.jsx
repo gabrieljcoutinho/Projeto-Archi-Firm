@@ -2,6 +2,7 @@ import React from 'react'
 import "../Css/faixaLaranjaSeparandoConteudo.css"
 
 import logoFaixaLAranja from "../img/logoFaixaLaranja1.png"
+import logoFaixaLAranja2 from "../img/logoFaixaLaranja2.png"
 
 const FaixaSeparandoConteudo = () => {
   return (
