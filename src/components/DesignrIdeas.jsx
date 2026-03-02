@@ -40,7 +40,7 @@ const DesignrIdeas = () => {
 
                                     <div className="divs">
                                     <img src={img3} alt="" />
-                                    <h6></h6>
+                                    <h6>Modernizing a classic loft with serene interiors</h6>
                                     </div>
 
                         </div>
