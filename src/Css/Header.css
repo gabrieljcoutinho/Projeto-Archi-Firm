@@ -1,23 +1,19 @@
+/* ESTRUTURA GERAL DO HEADER */
 .header {
     background-color: #1b1b1b;
     padding: 2rem 7rem;
-    /* Espaçamento interno nas laterais e topo */
     display: flex;
     flex-direction: column;
-    /* Força os elementos a ficarem um abaixo do outro */
     min-height: 80vh;
-    /* Faz o header ter uma altura boa */
 }
 
-/* Esta div segura o Logo, Menu e Botão em uma linha só */
+/* BARRA DE NAVEGAÇÃO */
 .headerNav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /* Espalha os itens: Logo na esquerda, Botão na direita */
     width: 100%;
     margin-bottom: 5rem;
-    /* Cria espaço entre o menu e o texto abaixo */
 }
 
 .headerMenu {
@@ -49,21 +45,17 @@
     background-color: #e06a5a;
 }
 
-/* ESTILIZAÇÃO DO CONTEÚDO ABAIXO DO MENU */
+/* CONTEÚDO (TEXTO + IMAGENS) */
 .conteudo {
     display: flex;
     align-items: center;
     justify-content: space-between;
-}
-
-.conteudoimagem {
-    display: flex;
+    gap: 40px; /* Espaço entre o bloco de texto e o bloco de fotos */
 }
 
 .conteudoEscrito h1 {
     color: white;
     font-size: 4rem;
-    /* Texto grande e impactante */
     max-width: 600px;
     line-height: 1.2;
 }
@@ -73,8 +65,32 @@
     padding-top: 1rem;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 30px;
+    max-width: 500px;
 }
 
+/* GRID DE IMAGENS (CONTEUDO 2) */
+.conteudo2 {
+    display: flex;
+    gap: 20px; /* Espaçamento horizontal entre as duas colunas */
+    align-items: flex-start;
+}
+
+/* ESTILIZAÇÃO DAS COLUNAS */
 .divConteudoImgParte1 {
-    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Espaçamento vertical entre as imagens de cada coluna */
+}
+
+/* EFEITO DE DESALINHAMENTO (A segunda coluna desce) */
+.conteudo2 .divConteudoImgParte1:nth-child(2) {
+    margin-top: 60px; /* Ajuste este valor para aumentar ou diminuir o degrau */
+}
+
+/* AJUSTE DAS IMAGENS */
+.divConteudoImgParte1 img {
+    width: 280px; /* Largura fixa para manter o alinhamento igual à imagem */
+    height: 320px; /* Altura fixa para manter o padrão retangular */
+    object-fit: cover; /* Faz a imagem preencher o espaço sem distorcer */
+    display: block;
 }
