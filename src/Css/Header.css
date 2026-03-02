@@ -103,3 +103,8 @@
 .img4Headerdetalhe {
     width: 400px;
 }
+
+.btnsMovimentacao {
+    display: flex;
+    gap: 10px;
+}
