@@ -64,7 +64,6 @@
     margin: 0;
 }
 
-
-.listaDetodasAsCategorias, .categorias, h3{
-    padding-left: 5rem;
+.categorias li {
+    padding-left: 30px;
 }
