@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer'>
 
       <div className="listaRedesSociais">
-        <p>
+        <p className='paragrafoFooter'>
           Lorem ipsum dolor sit amet <br />
           consectetur adipiscing elit aliquam
         </p>
