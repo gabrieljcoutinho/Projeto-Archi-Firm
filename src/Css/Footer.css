@@ -47,8 +47,8 @@ h3 {
 
 .listaDetodasAsCategorias li {
     list-style-type: none;
-    text-align: center;
-    flex-direction: left;
+    text-align: left; /* Alinha o texto à esquerda */
+    margin-bottom: 0.5rem; /* Opcional: adiciona um espaço entre os links */
 }
 
 .listaDetodasAsCategorias li a {
