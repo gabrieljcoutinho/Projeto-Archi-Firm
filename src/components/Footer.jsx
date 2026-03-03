@@ -10,7 +10,11 @@ const Footer = () => {
                 <ul className="listaRedesSociais">
                       <p>Lorem ipsum dolor sit amet  <br />
                         consectetur adipiscing elit aliquam</p>
-                        
+
+                            <ul className='linsksRedesSociais'>
+
+                              
+                            </ul>
 
                 </ul>
 
