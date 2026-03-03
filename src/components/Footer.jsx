@@ -49,6 +49,18 @@ const Footer = () => {
 
 
 
+                    <ul className="categorias">
+              <h3>Contact</h3>
+                  <li><a href="#">getting started</a></li>
+                  <li><a href="#">Help Center</a></li>
+                  <li><a href="#">Server status</a></li>
+                  <li><a href="#">Report a bug</a></li>
+                  <li><a href="#">Chat support</a></li>
+
+                    </ul>
+
+
+
 
     </div>
   )
