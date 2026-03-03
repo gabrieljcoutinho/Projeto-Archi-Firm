@@ -42,7 +42,7 @@ const Footer = () => {
                   <li><a href="#">getting started</a></li>
                   <li><a href="#">Help Center</a></li>
                   <li><a href="#">Server status</a></li>
-                  <li><a href="#">Culture</a></li>
+                  <li><a href="#">Report a bug</a></li>
                   <li><a href="#">Blog</a></li>
 
                     </ul>
