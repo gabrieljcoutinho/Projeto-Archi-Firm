@@ -52,7 +52,7 @@ const Footer = () => {
                     <ul className="categorias">
               <h3>Contact</h3>
                   <li><a href="#">contact@gmail.com</a></li>
-                  <li><a href="#">(??) 11 11111-1111</a></li>
+                  <li><a href="#">(+99) 11 11111-1111</a></li>
                   <li><a href="#">Server status</a></li>
                   <li><a href="#">Rua ArchiFirm</a></li>
 
