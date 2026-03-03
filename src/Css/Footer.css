@@ -47,13 +47,16 @@
 
 .listaDetodasAsCategorias li {
     list-style-type: none;
-    text-align: left; /* Alinha o texto à esquerda */
-    margin-bottom: 0.5rem; /* Opcional: adiciona um espaço entre os links */
+    text-align: left;
+    /* Alinha o texto à esquerda */
+    margin-bottom: 0.5rem;
+    /* Opcional: adiciona um espaço entre os links */
 }
 
 .listaDetodasAsCategorias li a {
     text-decoration: none;
-    color: #595959; /* Cor padrão para os links */
+    color: #595959;
+    /* Cor padrão para os links */
 }
 
 .categorias {
