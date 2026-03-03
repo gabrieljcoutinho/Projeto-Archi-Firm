@@ -21,7 +21,8 @@ const Footer = () => {
         </ul>
       </div>
 
-      <ul className="categorias">
+            <ul className="listaDetodasAsCategorias">
+            <ul className="categorias">
         <h3>Category</h3>
         <li><a href="#">Features</a></li>
         <li><a href="#">Pricing</a></li>
@@ -55,6 +56,7 @@ const Footer = () => {
         <li><a href="#">Server status</a></li>
         <li><a href="#">Rua ArchiFirm</a></li>
       </ul>
+            </ul>
 
     </div>
   )
