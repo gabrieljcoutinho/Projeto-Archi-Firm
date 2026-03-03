@@ -21,9 +21,14 @@
 
 .listaItemRedesSociais {
     list-style-type: none;
+
 }
 
 .itemListaRedesSociais {
     color: #595959;
     font-size: 20px;
+}
+
+.listaRedesSociais {
+    padding-top: 10rem;
 }
