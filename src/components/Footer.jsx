@@ -14,7 +14,7 @@ const Footer = () => {
 
         <ul className="linksRedesSociais">
           <li><a href="#" className='itemListaRedesSociais'><FaFacebookF /></a></li>
-          <li><a href="#"><FaTwitter /></a></li>
+          <li><a href="#" className='itemListaRedesSociais'><FaTwitter /></a></li>
           <li><a href="#"><FaInstagram /></a></li>
           <li><a href="#"><FaLinkedinIn /></a></li>
           <li><a href="#"><FaYoutube /></a></li>
