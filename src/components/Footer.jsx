@@ -43,7 +43,7 @@ const Footer = () => {
                   <li><a href="#">Help Center</a></li>
                   <li><a href="#">Server status</a></li>
                   <li><a href="#">Report a bug</a></li>
-                  <li><a href="#">Blog</a></li>
+                  <li><a href="#">Chat support</a></li>
 
                     </ul>
 
