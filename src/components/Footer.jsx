@@ -17,7 +17,7 @@ const Footer = () => {
                     <ul className="categorias">
               <h3>Category</h3>
                   <li><a href="#">Features</a></li>
-                  <li><a href="#"></a></li>
+                  <li><a href="#">Pricing</a></li>
                   <li><a href="#"></a></li>
                   <li><a href="#"></a></li>
                   <li><a href="#"></a></li>
