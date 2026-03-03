@@ -11,6 +11,7 @@
     display: flex;
 }
 
-.paragrafoFooter{
+.paragrafoFooter {
     color: #595959;
+    font-family: 'Roboto';
 }
