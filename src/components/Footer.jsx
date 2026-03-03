@@ -16,7 +16,7 @@ const Footer = () => {
 
                     <ul className="categorias">
               <h3>Category</h3>
-                  <li></li>
+                  <li><a href="#"></a></li>
                   <li></li>
                   <li></li>
                   <li></li>
