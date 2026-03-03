@@ -48,8 +48,10 @@ h3 {
 .listaDetodasAsCategorias li {
     list-style-type: none;
     text-align: center;
+    flex-direction: left;
 }
 
 .listaDetodasAsCategorias li a {
     text-decoration: none;
+    flex-direction: left;
 }
