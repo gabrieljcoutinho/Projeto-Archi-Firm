@@ -55,7 +55,7 @@ const Footer = () => {
                   <li><a href="#">(??) 11 11111-1111</a></li>
                   <li><a href="#">Server status</a></li>
                   <li><a href="#">Rua ArchiFirm</a></li>
-                  <li><a href="#">Chat support</a></li>
+
 
                     </ul>
 
