@@ -39,7 +39,7 @@ const Footer = () => {
 
                     <ul className="categorias">
               <h3>Suport</h3>
-                  <li><a href="#">getting started</a></li>
+                  <li><a href="#">Getting started</a></li>
                   <li><a href="#">Help Center</a></li>
                   <li><a href="#">Server status</a></li>
                   <li><a href="#">Report a bug</a></li>
@@ -51,7 +51,7 @@ const Footer = () => {
 
                     <ul className="categorias">
               <h3>Contact</h3>
-                  <li><a href="#">getting started</a></li>
+                  <li><a href="#">contact@gmail.com</a></li>
                   <li><a href="#">Help Center</a></li>
                   <li><a href="#">Server status</a></li>
                   <li><a href="#">Report a bug</a></li>
