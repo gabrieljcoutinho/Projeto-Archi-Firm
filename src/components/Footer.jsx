@@ -17,7 +17,7 @@ const Footer = () => {
           <li><a href="#" className='itemListaRedesSociais'><FaTwitter /></a></li>
           <li><a href="#" className='itemListaRedesSociais'><FaInstagram /></a></li>
           <li><a href="#" className='itemListaRedesSociais'><FaLinkedinIn /></a></li>
-          <li><a href="#"><FaYoutube /></a></li>
+          <li><a href="#" className='itemListaRedesSociais'><FaYoutube /></a></li>
         </ul>
       </div>
 
