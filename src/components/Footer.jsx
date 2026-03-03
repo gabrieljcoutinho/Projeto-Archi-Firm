@@ -39,7 +39,7 @@ const Footer = () => {
 
                     <ul className="categorias">
               <h3>Suport</h3>
-                  <li><a href="#">About</a></li>
+                  <li><a href="#">getting started</a></li>
                   <li><a href="#">Contact Us</a></li>
                   <li><a href="#">Carrers</a></li>
                   <li><a href="#">Culture</a></li>
