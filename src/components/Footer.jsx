@@ -8,7 +8,8 @@ const Footer = () => {
 
 
                 <ul className="listaRedesSociais">
-                      <p>Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam</p>
+                      <p>Lorem ipsum dolor sit amet  <br />
+                        consectetur adipiscing elit aliquam</p>
 
 
                 </ul>
