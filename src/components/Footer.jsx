@@ -13,7 +13,7 @@ const Footer = () => {
         </p>
 
         <ul className="linksRedesSociais">
-          <li><a href="#" className='itemListaRedesSociais'><FaFacebookF /></a></li>
+          <li className='listaItemRedesSociais'><a href="#" className='itemListaRedesSociais'><FaFacebookF /></a></li>
           <li><a href="#" className='itemListaRedesSociais'><FaTwitter /></a></li>
           <li><a href="#" className='itemListaRedesSociais'><FaInstagram /></a></li>
           <li><a href="#" className='itemListaRedesSociais'><FaLinkedinIn /></a></li>
