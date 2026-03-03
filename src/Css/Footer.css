@@ -45,6 +45,10 @@ h3 {
     color: #595959;
 }
 
-.listaDetodasAsCategorias  li a{
+.listaDetodasAsCategorias li {
+    list-style-type: none;
+}
+
+.listaDetodasAsCategorias li a {
     text-decoration: none;
 }
