@@ -47,6 +47,7 @@ h3 {
 
 .listaDetodasAsCategorias li {
     list-style-type: none;
+    text-align: center;
 }
 
 .listaDetodasAsCategorias li a {
