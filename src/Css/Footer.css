@@ -36,4 +36,5 @@
 .listaDetodasAsCategorias {
     display: flex;
     padding-left: 2rem;
+    padding-top: 5rem;
 }
