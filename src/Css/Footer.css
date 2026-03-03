@@ -53,9 +53,8 @@
 
 .listaDetodasAsCategorias li a {
     text-decoration: none;
-    flex-direction: left;
+    color: #595959; /* Cor padrão para os links */
 }
-
 
 .categorias {
     list-style-type: none;
