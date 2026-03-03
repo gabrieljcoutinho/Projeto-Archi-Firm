@@ -18,6 +18,10 @@
     font-size: 20px;
 }
 
+.listaItemRedesSociais{
+    list-style-type: none;
+}
+
 .itemListaRedesSociais {
     color: #595959;
 }
