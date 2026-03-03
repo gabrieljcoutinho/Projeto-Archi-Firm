@@ -13,7 +13,12 @@ const Footer = () => {
                 </ul>
 
 
-                
+
+                    <ul className="categorias">
+              <h3>Category</h3>
+              
+
+                    </ul>
 
 
     </div>
