@@ -6,7 +6,10 @@ const Footer = () => {
   return (
     <div className='footer'>
 
-          
+
+                <ul className="listaRedesSociais">
+        
+                </ul>
 
 
     </div>
